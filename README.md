@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elfelaoussamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elfelaoussamine" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/elfelaoussmohamedelamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elamine-el-felaouss-458428283" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elfelaoussmohamedelamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elamine-el-felaouss-458428283" height="30" width="40" /></a>
 <a href="https://instagram.com/tireafpeio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tireafpeio" height="30" width="40" /></a>
 <a href="https://discord.gg/d9ttvd5zae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9ttvd5zae" height="30" width="40" /></a>
 </p>
