@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elamine El Felaouss</h1>
-<h3 align="center">I'm a passionate full stack student based in Morocco, currently studying at OFPPT. At 20 years old, I embarked on a journey to Russia to further my education in computer science. Unfortunately, due to the war, I couldn't continue my studies, but I utilized the time to learn Russian and obtained a diploma in the Russian language. Now, I've completed my first year at OFPPT and have advanced skills in web development. I'm also enthusiastic about innovations in AI, machine learning, and all new technologies. I'm currently seeking full stack engineering internships.</h3>
+<h3 align="center">I'm a passionate full stack student based in Morocco. At 20 years old, I embarked on a journey to Russia to further my education in computer science. Now, I have advanced skills in web development. I'm also enthusiastic about innovations in AI, machine learning, and all new technologies. I'm currently seeking full stack engineering internships.</h3>
 
 <p align="left"> <a href="https://twitter.com/elfelaoussamine" target="blank"><img src="https://img.shields.io/twitter/follow/elfelaoussamine?logo=twitter&style=for-the-badge" alt="elfelaoussamine" /></a> </p>
 
 ## 📚 About Me
 
 
-- 🎓 I’m **Full Stack Student at OFPPT, Morocco**
+- 🎓 I’m **Full Stack Student, Morocco**
 - 🌍 Studied in Russia to explore new perspectives and opportunities
 - 💻 Advanced in web development
 - 💡 Interested in AI, machine learning, and new technologies
