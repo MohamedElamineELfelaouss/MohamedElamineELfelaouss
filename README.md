@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elamine El Felaouss</h1>
-<h3 align="center">I'm a passionate full stack student based in Morocco. At 20 years old, I embarked on a journey to Russia to further my education in computer science. Now, I have advanced skills in web development. I'm also enthusiastic about innovations in AI, machine learning, and all new technologies. I'm currently seeking full stack engineering internships.</h3>
+<h3 align="center">I'm a passionate full stack student based in Morocco. At 21 years old, I embarked on a journey to Russia to further my education in computer science. Now, I have advanced skills in web development. I'm also enthusiastic about innovations in AI, machine learning, and all new technologies. I'm currently seeking full stack engineering internships.</h3>
 
 <p align="left"> <a href="https://twitter.com/elfelaoussamine" target="blank"><img src="https://img.shields.io/twitter/follow/elfelaoussamine?logo=twitter&style=for-the-badge" alt="elfelaoussamine" /></a> </p>
 
