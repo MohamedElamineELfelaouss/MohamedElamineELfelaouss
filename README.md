@@ -6,7 +6,7 @@
 
 **Full-Stack Software Engineer** · secure web · mobile · data · AI · Casablanca 🇲🇦
 
-<a href="https://www.elamine.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-elamine.dev-D64500?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://www.elamine.dev/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-elamine.dev-D64500?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/elfelaoussmohamedelamine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:elfelaoussmohamedelamine@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://cal.com/mohamed-elamine-elfelaouss-j6b7wh/15min"><img src="https://img.shields.io/badge/Book_a_call-15_min-111111?style=for-the-badge&logo=caldotcom&logoColor=white" alt="book a call" /></a>
