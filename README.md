@@ -1,35 +1,143 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elamine El Felaouss</h1>
-<h3 align="center">I'm a passionate full stack student based in Morocco. At 23 years old, I embarked on a journey to Russia to further my education in computer science. Now, I have advanced skills in web development. I'm also enthusiastic about innovations in AI, machine learning, and all new technologies. I'm currently seeking full stack engineering internships.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/elfelaoussamine" target="blank"><img src="https://img.shields.io/twitter/follow/elfelaoussamine?logo=twitter&style=for-the-badge" alt="elfelaoussamine" /></a> </p>
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/elfelaoussmohamedelamine/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-  </a> 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=D64500&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Engineer;Security-minded+builder+%E2%80%94+%E2%84%9615+CTF+Morocco;From+audit+to+production%2C+I+build+what+ships" alt="typing banner" />
+
+# FILE&nbsp;`ELF.26` — Mohamed Elamine El Felaouss
+
+**Full-Stack Software Engineer** · secure web · mobile · data · AI · Casablanca 🇲🇦
+
+<a href="https://elamine.dev"><img src="https://img.shields.io/badge/Portfolio-elamine.dev-D64500?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/elfelaoussmohamedelamine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:elfelaoussmohamedelamine@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://cal.com/mohamed-elamine-elfelaouss-j6b7wh/15min"><img src="https://img.shields.io/badge/Book_a_call-15_min-111111?style=for-the-badge&logo=caldotcom&logoColor=white" alt="book a call" /></a>
+<img src="https://komarev.com/ghpvc/?username=MohamedElamineELfelaouss&style=for-the-badge&color=D64500&label=FILE+VIEWS" alt="views" />
+
+</div>
+
+---
+
+### `▚` SUBJECT
+
+Polyvalent engineer who delivers from **audit to production**. I turn messy, high-stakes systems — spreadsheets, scattered data, undocumented business logic — into secure, auditable software. My security instincts come from competitive CTF: I build knowing exactly how things break.
+
+🔗 **Full dossier → [elamine.dev](https://elamine.dev)**
+
+---
+
+### `▚` CURRENT ASSIGNMENT
+
+**Software Engineer (PFE) — Capgemini Engineering** · Mar 2026 → present
+
+Leading the migration of **AMOS**, an EMS operations platform, from a 63-sheet Excel workflow into a production full-stack system — PostgreSQL **GIST** temporal exclusion constraints, versioned REST services, double-validation locking, and a complete audit trail.
+
+<sub>Previously <strong>JESA (Jacobs Engineering)</strong> — full-stack + cross-platform mobile IT Asset Management platform.</sub>
+
+---
+
+### `▚` COMPETITIVE SECURITY
+
+> The offensive edge that makes my builds defensible.
+
+| Rank | Arena |
+|:----:|-------|
+| **№15** | 🇲🇦 Morocco — national CTF ranking (2025–26) |
+| **136 / 1359** | 0xFUN CTF 2026 — worldwide |
+| **63 / 461** | TaipanByte CTF — international |
+
+`web exploitation` · `reverse engineering` · `cryptography` · `forensics`
+
+---
+
+### `▚` TECHNICAL ARSENAL
+
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_J2EE-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
-## 📚 About Me
-
-
-- 🎓 I’m **Full Stack Student, Morocco**
-- 🌍 Studied in Russia to explore new perspectives and opportunities
-- 💻 Advanced in web development
-- 💡 Interested in AI, machine learning, and new technologies
-- 🔍 Seeking full stack engineering internships
-
-- 📫 How to reach me **elfelaoussmohamedelamine@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elfelaoussamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elfelaoussamine" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/elfelaoussmohamedelamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elamine-el-felaouss-458428283" height="30" width="40" /></a>
-<a href="https://instagram.com/tireafpeio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tireafpeio" height="30" width="40" /></a>
-<a href="https://discord.gg/d9ttvd5zae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9ttvd5zae" height="30" width="40" /></a>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Data & ML**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+**DevOps & Cloud**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Security**
+<p>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Cryptography-555555?style=flat-square" />
+</p>
+
+---
+
+### `▚` SELECTED EXHIBITS
+
+- **[NXRiseUp](https://trading-dashboard-nine-henna.vercel.app/)** — trading journal + AI trade analysis · *live* · `Next.js` `Recharts` `Gemini`
+- **AMOS** — financial backbone for Capgemini Operations Services · *NDA* · `Django` `PostgreSQL`
+- **ShipScore** — AI startup-idea scorer · `React` `Claude API`
+- **Market Intel** — Moroccan real-estate scraping & signal pipeline · `Python` `Scrapy` `Pandas`
+
+<sub>More builds — freelance, study &amp; personal — on the repos below and in the <strong><a href="https://elamine.dev">full dossier ↗</a></strong></sub>
+
+---
+
+### `▚` FIELD ANALYTICS
 
 <div align="center">
-  <img src="good-times.svg"  alt="SVG Image" width="400" height="400">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedElamineELfelaouss&show_icons=true&hide_border=true&bg_color=00000000&title_color=D64500&icon_color=D64500&text_color=808080&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElamineELfelaouss&layout=compact&hide_border=true&bg_color=00000000&title_color=D64500&text_color=808080&langs_count=8" alt="top languages" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamineELfelaouss&hide_border=true&background=00000000&stroke=808080&ring=D64500&fire=D64500&currStreakNum=808080&sideNums=808080&currStreakLabel=D64500&sideLabels=808080&dates=808080" alt="streak" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedElamineELfelaouss&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</div>
+
+---
+
+### `▚` OPEN A SECURE CHANNEL
+
+📍 Casablanca, Morocco (GMT+1) · open to **full-time** &amp; **freelance / contract** · remote-friendly
+
+Fastest path is a call — or run the `hire` command on the live site. 😉
+
+<a href="https://cal.com/mohamed-elamine-elfelaouss-j6b7wh/15min"><img src="https://img.shields.io/badge/Book_a_15--min_intro-D64500?style=for-the-badge&logo=caldotcom&logoColor=white" alt="book" /></a>
+<a href="https://elamine.dev"><img src="https://img.shields.io/badge/Visit_the_dossier-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="site" /></a>
+
+<div align="center"><br><sub><code>ACCESS GRANTED — INTERVIEW RECOMMENDED · elamine.dev</code></sub></div>
