@@ -117,16 +117,19 @@ Leading the migration of **AMOS**, an EMS operations platform, from a 63-sheet E
 ### `▚` FIELD ANALYTICS
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedElamineELfelaouss&show_icons=true&hide_border=true&bg_color=00000000&title_color=D64500&icon_color=D64500&text_color=808080&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElamineELfelaouss&layout=compact&hide_border=true&bg_color=00000000&title_color=D64500&text_color=808080&langs_count=8" alt="top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElamineELfelaouss&hide_border=true&bg_color=00000000&color=808080&line=D64500&point=D64500&area=true&area_color=D64500&title_color=808080" alt="contribution graph" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElamineELfelaouss&hide_border=true&background=00000000&stroke=808080&ring=D64500&fire=D64500&currStreakNum=808080&sideNums=808080&currStreakLabel=D64500&sideLabels=808080&dates=808080" alt="streak" />
 </div>
 
+<!-- SNAKE -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedElamineELfelaouss&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedElamineELfelaouss/MohamedElamineELfelaouss/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/MohamedElamineELfelaouss/MohamedElamineELfelaouss/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
